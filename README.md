@@ -24,7 +24,7 @@ Para visualizar y trabajar con esta configuración, se necesita:
 
 ## Archivos
 
-- **Configuracion_VLAN.pka**: Archivo de Packet Tracer con la configuración completa del enrutamiento entre VLANs.
+- **pka.pka**: Archivo de Packet Tracer con la configuración completa del enrutamiento entre VLANs.
 
 ## Instrucciones de Uso
 
